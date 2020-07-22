@@ -32,4 +32,5 @@ dependencies {
 
     //나의 라이브러리
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'io.apisense:rhino-android:1.1.1'
 }
